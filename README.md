@@ -24,5 +24,5 @@
   <a href="https://discord.gg/CYC4ywxqQz" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:karolinnealessandraa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-  ![Pacman animation](https://cdn.discordapp.com/attachments/853440715945672704/955680315685347328/1Swn.gif)
+  ![Pacman animation](https://giffiles.alphacoders.com/163/163919.gif)
  </div>
