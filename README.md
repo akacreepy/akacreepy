@@ -16,7 +16,6 @@
     <img align="right" alt="Aka-pic" height="150" style="border-radius:50px;" src="https://cdn.wallpapersafari.com/59/25/zZJLtA.jpg">
 </div>
 
-
  ##
  
 <div> 
